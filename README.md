@@ -8,7 +8,9 @@ brew install tesseract
 # ocr sucks
 python bin2txt.py
 ```
-output: 
+
+output:
+
 ```
 P r o u d 
 o r k   a 
